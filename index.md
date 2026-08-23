@@ -1,5 +1,3 @@
-# My LFX Mentorship Journey: A Small Patch That Changed My Perspective
-
 > *"Every expert was once a beginner."* Looking back, this quote perfectly captures my LFX Mentorship journey.
 
 For the past few years, I've worked as an embedded software engineer, building Linux-based systems and interacting with the kernel almost every day. The Linux kernel has always been the foundation of many products I worked on, yet contributing to it felt like stepping into another world.
@@ -20,9 +18,9 @@ When I received the acceptance email, I was excited—and nervous.
 
 I knew this wasn't going to be a classroom course with predefined exercises. Instead, I would be working on the actual Linux kernel alongside maintainers and contributors from around the world.
 
-My mentors, **Shuah Khan** and **Campbell**, immediately created an environment where asking questions was encouraged and learning was valued over simply finishing tasks. Their guidance made what initially felt overwhelming become much more approachable.
+My mentors, **Shuah Khan** and **Campbell**, created a good environment where asking questions was encouraged and learning was valued over simply finishing tasks. Their guidance made what initially felt overwhelming become much more approachable.
 
-The project assigned to me focused on **converting legacy Device Tree binding documentation into YAML schemas**.
+I've chosen device tree subsystem and focused on **converting legacy Device Tree binding documentation into YAML schemas**.
 
 At first glance, it sounded like a documentation conversion.
 
@@ -93,7 +91,7 @@ But as I read through each suggestion carefully, I realized something important.
 
 The reviewers weren't rejecting my work.
 
-They were helping improve it.
+They were helping to improve it.
 
 That shift in mindset completely changed how I viewed code reviews.
 
@@ -133,15 +131,13 @@ Equally important are:
 
 ## Progress Through the Mentorship
 
-By the end of the mentorship, I had submitted **seven upstream patches**.
+By the end of the mentorship, I had submitted **ten upstream patches** and **three got merged into mainline**.
 
 Seeing my **first patch merged into the Linux kernel** was an unforgettable moment.
 
 Knowing that something I had worked on would become part of the upstream kernel was incredibly satisfying.
 
-The remaining **six patches** have gone through review and continue progressing through the upstream process.
-
-Although only one patch has been merged so far, every submission taught me something new.
+The remaining **seven patches** have gone through review and continue progressing through the upstream process.
 
 Each review made me a better contributor than the previous one.
 
