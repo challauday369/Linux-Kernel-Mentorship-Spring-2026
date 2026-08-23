@@ -18,7 +18,7 @@ When I received the acceptance email, I was excited—and nervous.
 
 I knew this wasn't going to be a classroom course with predefined exercises. Instead, I would be working on the actual Linux kernel alongside maintainers and contributors from around the world.
 
-My mentors, **Shuah Khan** and **Campbell**, created a good environment where asking questions was encouraged and learning was valued over simply finishing tasks. Their guidance made what initially felt overwhelming become much more approachable.
+My mentors, **Shuah Khan** and **Campbell**, created a best environment where asking questions was encouraged and learning was valued over simply finishing tasks. Their guidance made what initially felt overwhelming become much more approachable.
 
 I've chosen device tree subsystem and focused on **converting legacy Device Tree binding documentation into YAML schemas**.
 
@@ -131,13 +131,13 @@ Equally important are:
 
 ## Progress Through the Mentorship
 
-By the end of the mentorship, I had submitted **ten upstream patches** and **three got merged into mainline**.
+By the end of the mentorship, I had submitted **ten upstream patches** out of which **five got merged into mainline (at the time of publishing this blog)**.
 
 Seeing my **first patch merged into the Linux kernel** was an unforgettable moment.
 
 Knowing that something I had worked on would become part of the upstream kernel was incredibly satisfying.
 
-The remaining **seven patches** have gone through review and continue progressing through the upstream process.
+The remaining **five patches** have gone through review and continue progressing through the upstream process.
 
 Each review made me a better contributor than the previous one.
 
