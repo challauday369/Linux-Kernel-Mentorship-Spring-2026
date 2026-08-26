@@ -214,7 +214,7 @@ I hope to do the same.
 
 I would like to sincerely thank my mentors, **Shuah Khan** and **Brigham Campbell**, for their guidance, encouragement, and patience throughout this journey.
 
-I'm also grateful to the Linux kernel maintainers and reviewers who took the time to review my patches and provide thoughtful feedback. Every comment contributed to my growth as a developer.
+I'm also grateful to the Linux kernel maintainers and reviewers **Rob Herring**, **Krzysztof Kozlowski** and **Conor Dooley**, who took the time to review my patches and provide thoughtful feedback. Every comment contributed to my growth as a developer.
 
 Finally, thank you to the Linux Foundation for creating a program that gives aspiring contributors the opportunity to learn by doing.
 
