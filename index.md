@@ -1,4 +1,4 @@
-> *"Every expert was once a beginner."* Looking back, this quote perfectly captures my LFX Mentorship journey.
+> *"Every expert was once a beginner."* Looking back, this quote perfectly captures my Linux Kernel Spring Unpaid 2026 Mentorship journey.
 
 For the past few years, I've worked as an embedded software engineer, building Linux-based systems and interacting with the kernel almost every day. The Linux kernel has always been the foundation of many products I worked on, yet contributing to it felt like stepping into another world.
 
@@ -6,7 +6,7 @@ The kernel source tree contains millions of lines of code. Every change is publi
 
 To be honest, contributing to the Linux kernel seemed intimidating.
 
-That is exactly why I applied for the Linux Foundation's LFX Mentorship Program.
+That is exactly why I applied for the Linux Foundation's Linux Kernel Spring Unpaid 2026 Mentorship Program.
 
 I hoped it would give me the opportunity to learn directly from experienced developers while making real upstream contributions. Looking back now, I can confidently say it was one of the most rewarding learning experiences of my career.
 
@@ -129,7 +129,7 @@ Equally important are:
 
 ## Progress Through the Mentorship
 
-By the end of the mentorship, I had submitted **ten upstream patches** out of which **five got merged into mainline (at the time of publishing this blog)**.
+By the end of the mentorship, I had submitted **Nine upstream patches** out of which **Five got merged into mainline(4)/linux-next(1) (at the time of publishing this blog)**.
 
 Seeing my **first patch merged into the Linux kernel** was an unforgettable moment.
 
@@ -177,9 +177,9 @@ It's about consistently learning and improving.
 
 ---
 
-## Advice for Future LFX Applicants
+## Advice for Future Linux Kernel Mentorship Applicants
 
-If you're thinking about applying for an LFX Mentorship, here are a few things I wish I had known earlier:
+If you're thinking about applying for an Linux Kernel Mentorship, here are a few things I wish I had known earlier:
 
 * Don't wait until you feel "qualified." Learning is the purpose of the program.
 * Read existing code before writing new code.
