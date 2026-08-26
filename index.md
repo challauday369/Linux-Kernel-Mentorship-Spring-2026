@@ -18,9 +18,7 @@ When I received the acceptance email, I was excited—and nervous.
 
 I knew this wasn't going to be a classroom course with predefined exercises. Instead, I would be working on the actual Linux kernel alongside maintainers and contributors from around the world.
 
-My mentors, **Shuah Khan** and **Campbell**, created a best environment where asking questions was encouraged and learning was valued over simply finishing tasks. Their guidance made what initially felt overwhelming become much more approachable.
-
-I've chosen device tree subsystem and focused on **converting legacy Device Tree binding documentation into YAML schemas**.
+I've chosen device tree bindings and focused on **converting legacy Device Tree binding documentation into YAML schemas**.
 
 At first glance, it sounded like a documentation conversion.
 
