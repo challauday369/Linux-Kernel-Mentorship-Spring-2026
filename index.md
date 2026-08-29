@@ -61,7 +61,7 @@ Other times...
 
 I remember spending hours tracing a schema error only to discover that the actual issue originated somewhere completely different. Those moments were frustrating, but they taught me one of the most valuable lessons in software engineering:
 
-**Debug patiently. Don't assume the first error message tells the whole story.**
+> **Debug patiently. Don't assume the first error message tells the whole story.**
 
 ---
 
@@ -113,7 +113,7 @@ Initially, I thought these were minor details.
 
 Over time, I understood why consistency matters in a project as large as the Linux kernel.
 
-When thousands of developers contribute, following common conventions makes the codebase easier to maintain for everyone.
+When thousands of developers contribute, following common conventions makes the code-base easier to maintain for everyone.
 
 I also learned that writing code is only part of contributing.
 
@@ -129,13 +129,11 @@ Equally important are:
 
 ## Progress Through the Mentorship
 
-By the end of the mentorship, I had submitted **Nine upstream patches** out of which **Five got merged into mainline(4)/linux-next(1) (at the time of publishing this blog)**.
+By the end of the mentorship, I had submitted **Nine upstream patches** out of which **Four got merged into mainline and one patch is in linux-next (at the time of publishing this blog)**. The remaining four patches are under review process.
 
-Seeing my **first patch merged into the Linux kernel** was an unforgettable moment.
+Seeing my **First patch merged into the Linux kernel** was an unforgettable moment.
 
 Knowing that something I had worked on would become part of the upstream kernel was incredibly satisfying.
-
-The remaining **five patches** have gone through review and continue progressing through the upstream process.
 
 Each review made me a better contributor than the previous one.
 
@@ -199,12 +197,6 @@ Every patch teaches something new.
 Although the official mentorship has ended, my open-source journey is far from over.
 
 I plan to continue contributing to the Linux kernel, explore new subsystems, and take on increasingly challenging work.
-
-One day, I also hope to mentor new contributors, helping them navigate the same journey that once felt so intimidating to me.
-
-Open source thrives because people share knowledge.
-
-I hope to do the same.
 
 ---
 
